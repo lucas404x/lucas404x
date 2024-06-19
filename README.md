@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm José Lucas</h1>
 <h3 align="center">A passionate Brazillian developer who aims to build high-performance and maintainable solutions.</h3>
 
-🔭 I’m currently working at Technoserv and some personal projects<br>🌱 I’m currently learning testing, docker, postgres<br>💬 Ask me about flutter, c#, android, sql<br>📫 How to reach me joselucas0303@gmail.com
+🔭 I’m currently working at Technoserv and some personal projects<br>🌱 I’m currently learning blazor, docker, postgres<br>💬 Ask me about c#, api, flutter, android, sql<br>📫 How to reach me joselucas0303@gmail.com
 
 
 ## 🌐 Socials
